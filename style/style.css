@@ -57,7 +57,7 @@ body {
 
 .message-content {
   position: absolute;
-  top: 631px;
+  top: 515px;
   left: 210px;
   display: flex;
   flex-direction: row;
@@ -80,7 +80,7 @@ body {
 
 .botao {
   position: absolute;
-  top: 660px;
+  top: 540px;
   left: 210px;
   display: flex;
   align-items: center;
@@ -142,7 +142,7 @@ body {
   border-radius: 32px;
   text-align: center;
   width: 400px;
-  height: 714px;
+  height: 600px;
   box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
 
 
@@ -170,7 +170,7 @@ body {
 
 #image-card {
   position: absolute;
-  top: 243px;
+  top: 153px;
   left: 32px;
   width: 336px;
   height: 304px;
@@ -179,7 +179,7 @@ body {
 
 .context-card__texto {
   position: absolute;
-  top: 579px;
+  top: 459px;
   left: 32px;
   gap: 16px;
   
@@ -201,10 +201,11 @@ body {
 footer {
   background-color: #F9F7C9;
   position: absolute;
-  top: 780px;
+  top: 665px;
+  height: 16px;
   text-align: center;
   width: 100%;
-  font-size: 32px;
+  font-size: 12px;
   font-weight: 700;
   font-style: normal;
   color: #002750;
