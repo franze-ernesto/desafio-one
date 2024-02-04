@@ -276,6 +276,16 @@ footer {
     width: 345px;
   }
 
+  .botao-encriptar {
+    background-color: #1c2e41;
+    color: rgb(167, 167, 167);
+  }
+
+  .botao-decriptar {
+    background-color: #0b243f;
+    color: rgb(100, 100, 100);
+  }
+
   footer p {
     /* background-color: #006de2; */
     position: absolute;
